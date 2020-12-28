@@ -1,0 +1,5 @@
+M01|agus|Pemrograman Python|2020-12-28|2021-01-04
+M02|Budi|Pemrograman Pascal|2020-12-28|2021-01-04
+M03|Andi|Resep Masak|2020-12-28|2021-01-04
+M04|Bagus|Tips Didup Sehat|2020-12-28|2021-01-04
+M05|Woody|Kisah 25 Nabi dan Rasul|2020-12-28|2021-01-04
